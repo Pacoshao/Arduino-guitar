@@ -33,6 +33,7 @@ touch sensor 6----------------------------9
 touch sensor 7----------------------------10
 
 The level of sound  is turned by the anlog potentiomete...
+
 The function of touch sensor is to sense where your hand is, send digital signal to Arduino, and then make the buzzer sound...
 
 #################### The end ####################
