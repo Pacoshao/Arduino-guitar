@@ -12,6 +12,8 @@ For the children,I have the mixly file (.mix).
 
 You can downlaod Mixly from http://mixly.org/.
 
+You can downlaod the files(.mix/.ino) from https://github.com/Pacoshao/Arduino-guitar/releases
+
 It is a simple project...
 
 This is the wiring method...
